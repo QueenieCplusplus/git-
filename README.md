@@ -1,18 +1,8 @@
 # git
 
-
-Hi
-
 the git cli: $ git pull --rebase really helps me a lot.
 and remember to add URL with port number to the remote branch,
 otherwise the git warns you that you are directed..., and git push can't work out. 
-
-This repo seems like a garbage now, I will try CICD later on ~
-
-![jenkin](https://www.crowdstrike.com/blog/wp-content/uploads/2018/10/Jenkins-blog-image.jpg)
-
-Wish everything goes well and smoothly.
-
 
 <h1> Git Tool 
 
