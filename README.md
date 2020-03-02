@@ -71,6 +71,12 @@ otherwise the git warns you that you are directed..., and git push can't work ou
 
   git remote add < remote branch name > < new url with port number >
   
+## remote branch clone 遠端儲存庫分支的克隆
+
+     $git clone -b <branch> <remote_repo>
+    
+     $git clone -b develop git@github.com:user/myproject.git
+  
 ## remote branch delete 刪除遠端分支
 
   $git branch --remote
