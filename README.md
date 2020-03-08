@@ -160,6 +160,16 @@ otherwise the git warns you that you are directed..., and git push can't work ou
   git commit
 
   git commit -m"your comment"
+  
+## reset commit
+
+reset commit, once you regret the commit then:
+
+  $git log see last commit tag, says f1fb969
+
+  $git reset f1fb969^
+
+  then result return to the former tag before f1fb969
 
 ## go to vim
 
