@@ -169,7 +169,17 @@ reset commit, once you regret the commit then:
 
   $git reset f1fb969^
 
-  then result return to the former tag before f1fb969
+  > then result return to the former tag before f1fb969
+  
+## revert commit
+
+revert commit, once you regret the remote commit:
+
+git log see last commit tag, says 00000
+
+  $git revert 00000^
+
+  > then result return to the former tag before f1fb969
 
 ## go to vim
 
