@@ -2,7 +2,11 @@
 
 the git cli: $ git pull --rebase really helps me a lot.
 and remember to add URL with port number to the remote branch,
-otherwise the git warns you that you are directed..., and git push can't work out. 
+otherwise the git warns you that you are directed..., and git push can't work out.
+
+# Useful tip for git add:
+
+     git add folder/*
 
 <h1> Git Tool 
 
